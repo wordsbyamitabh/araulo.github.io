@@ -1,0 +1,10 @@
+title: Words by Amitabh
+description: >- 
+  My daily blog on tech, trading, and clean code.
+baseurl: "" 
+url: "https://wordsbyamitabh.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
